@@ -1,7 +1,7 @@
-# Tauri + SvelteKit + TypeScript
+# PL-0011 : Project Manage Board App
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+This project is for developing app that provides Project Managing and Remind Service
 
-## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+* This project is part of Penguin-L in PL-0011
+* by Ozeco-Mmem
